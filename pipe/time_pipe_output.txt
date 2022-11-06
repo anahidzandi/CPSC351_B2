@@ -1,0 +1,9 @@
+total 88
+-rwxrwxr-x 1 student student   594 Nov  6 13:09 build.sh
+-rwxrwxr-x 1 student student 77832 Nov  6 13:42 time
+-rw-rw-r-- 1 student student  3998 Nov  6 13:33 time_pipe.c
+-rw-rw-r-- 1 student student     0 Nov  6 13:42 time_pipe_output.txt
+
+Elapsed time: 0.000711 seconds
+IPC Method: Anonymous Pipe
+Command: ls -l 

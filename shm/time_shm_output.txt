@@ -1,0 +1,9 @@
+total 84
+-rwxrwxr-x 1 student student   594 Nov  6 13:10 build.sh
+-rwxrwxr-x 1 student student 77816 Nov  6 13:42 time
+-rw-rw-r-- 1 student student  3940 Nov  6 13:39 time_shm.c
+-rw-rw-r-- 1 student student     0 Nov  6 13:42 time_shm_output.txt
+
+Elapsed time: 0.000681 seconds
+IPC Method: Shared Memory
+Command: ls -l 
